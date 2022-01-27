@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/android/app/src/main/res/drawable-v24/dl_background.xml" value="0.3398148148148148" />
+        <entry key="..\:/android/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.3398148148148148" />
+        <entry key="..\:/android/app/src/main/res/drawable/custom_avatar.xml" value="0.3398148148148148" />
+        <entry key="..\:/android/app/src/main/res/drawable/custom_ripple_yellow.xml" value="0.3398148148148148" />
+        <entry key="..\:/android/app/src/main/res/drawable/custom_underline.xml" value="0.19166666666666668" />
+        <entry key="..\:/android/app/src/main/res/drawable/gradient_intro_0.xml" value="0.3398148148148148" />
+        <entry key="..\:/android/app/src/main/res/drawable/gradient_intro_1.xml" value="0.3398148148148148" />
+        <entry key="..\:/android/app/src/main/res/drawable/gradient_intro_10.xml" value="0.3398148148148148" />
+        <entry key="..\:/android/app/src/main/res/drawable/gradient_intro_2.xml" value="0.3398148148148148" />
+        <entry key="..\:/android/app/src/main/res/drawable/gradient_intro_3.xml" value="0.3398148148148148" />
+        <entry key="..\:/android/app/src/main/res/drawable/gradient_intro_4.xml" value="0.3398148148148148" />
+        <entry key="..\:/android/app/src/main/res/drawable/gradient_intro_5.xml" value="0.3398148148148148" />
+        <entry key="..\:/android/app/src/main/res/drawable/gradient_intro_6.xml" value="0.3398148148148148" />
+        <entry key="..\:/android/app/src/main/res/drawable/gradient_intro_7.xml" value="0.3398148148148148" />
+        <entry key="..\:/android/app/src/main/res/drawable/gradient_intro_8.xml" value="0.3398148148148148" />
+        <entry key="..\:/android/app/src/main/res/drawable/gradient_intro_9.xml" value="0.3398148148148148" />
+        <entry key="..\:/android/app/src/main/res/drawable/ic_launcher_background.xml" value="0.3398148148148148" />
+        <entry key="..\:/android/app/src/main/res/font/font.xml" value="0.2853881278538813" />
+        <entry key="..\:/android/app/src/main/res/layout/about_dialog.xml" value="0.32546296296296295" />
+        <entry key="..\:/android/app/src/main/res/layout/activity_account.xml" value="0.32546296296296295" />
+        <entry key="..\:/android/app/src/main/res/layout/activity_db_test.xml" value="0.21666666666666667" />
+        <entry key="..\:/android/app/src/main/res/layout/activity_game.xml" value="0.32546296296296295" />
+        <entry key="..\:/android/app/src/main/res/layout/activity_intro.xml" value="0.32546296296296295" />
+        <entry key="..\:/android/app/src/main/res/layout/activity_join_ok.xml" value="0.33" />
+        <entry key="..\:/android/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/android/app/src/main/res/layout/activity_main_back.xml" value="0.32546296296296295" />
+        <entry key="..\:/android/app/src/main/res/layout/activity_main_calc.xml" value="0.32546296296296295" />
+        <entry key="..\:/android/app/src/main/res/layout/activity_main_doublescreen.xml" value="0.32546296296296295" />
+        <entry key="..\:/android/app/src/main/res/layout/activity_main_join.xml" value="0.32546296296296295" />
+        <entry key="..\:/android/app/src/main/res/layout/activity_main_login.xml" value="0.32546296296296295" />
+        <entry key="..\:/android/app/src/main/res/layout/activity_main_practice.xml" value="0.32546296296296295" />
+        <entry key="..\:/android/app/src/main/res/layout/activity_main_site.xml" value="0.32546296296296295" />
+        <entry key="..\:/android/app/src/main/res/layout/activity_main_web.xml" value="0.23425925925925925" />
+        <entry key="..\:/android/app/src/main/res/layout/activity_nickname.xml" value="0.32546296296296295" />
+        <entry key="..\:/android/app/src/main/res/layout/activity_practice.xml" value="0.25" />
+        <entry key="..\:/android/app/src/main/res/layout/activity_profile.xml" value="0.32546296296296295" />
+        <entry key="..\:/android/app/src/main/res/layout/activity_sidemenu.xml" value="0.24547101449275363" />
+        <entry key="..\:/android/app/src/main/res/layout/activity_sub.xml" value="0.32546296296296295" />
+        <entry key="..\:/android/app/src/main/res/layout/activity_web.xml" value="0.33" />
+        <entry key="..\:/android/app/src/main/res/layout/activity_webmain.xml" value="0.32546296296296295" />
+        <entry key="..\:/android/app/src/main/res/layout/basic_dialog.xml" value="0.33" />
+        <entry key="..\:/android/app/src/main/res/layout/colors.xml" value="0.24547101449275363" />
+        <entry key="..\:/android/app/src/main/res/layout/dl_background.xml" value="0.24547101449275363" />
+        <entry key="..\:/android/app/src/main/res/layout/font.xml" value="0.24547101449275363" />
+        <entry key="..\:/android/app/src/main/res/layout/layout_basic.xml" value="0.33" />
+        <entry key="..\:/android/app/src/main/res/layout/layout_enfj.xml" value="0.32546296296296295" />
+        <entry key="..\:/android/app/src/main/res/layout/layout_enfp.xml" value="0.32546296296296295" />
+        <entry key="..\:/android/app/src/main/res/layout/layout_esfj.xml" value="0.25" />
+        <entry key="..\:/android/app/src/main/res/layout/layout_estj.xml" value="0.25" />
+        <entry key="..\:/android/app/src/main/res/layout/layout_infp.xml" value="0.32546296296296295" />
+        <entry key="..\:/android/app/src/main/res/layout/layout_isfj.xml" value="0.25" />
+        <entry key="..\:/android/app/src/main/res/layout/layout_istj.xml" value="0.25" />
+        <entry key="..\:/android/app/src/main/res/layout/layout_mbti_intj_1.xml" value="0.2341485507246377" />
+        <entry key="..\:/android/app/src/main/res/layout/main_dialog.xml" value="0.32546296296296295" />
+        <entry key="..\:/android/app/src/main/res/layout/mate_all.xml" value="0.25" />
+        <entry key="..\:/android/app/src/main/res/layout/mbti_estp.xml" value="0.32546296296296295" />
+        <entry key="..\:/android/app/src/main/res/layout/movie_all.xml" value="0.25" />
+        <entry key="..\:/android/app/src/main/res/layout/music_all.xml" value="0.22146739130434784" />
+        <entry key="..\:/android/app/src/main/res/layout/profile_dialog.xml" value="0.32546296296296295" />
+        <entry key="..\:/android/app/src/main/res/layout/s.xml" value="0.32546296296296295" />
+        <entry key="..\:/android/app/src/main/res/layout/test.xml" value="0.32546296296296295" />
+        <entry key="..\:/android/app/src/main/res/layout/test1.xml" value="0.3125" />
+        <entry key="..\:/android/app/src/main/res/layout/themes.xml" value="0.24547101449275363" />
+        <entry key="..\:/android/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.27314814814814814" />
+        <entry key="..\:/android/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.27314814814814814" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK" />
+</project>
